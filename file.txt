@@ -7,7 +7,7 @@
     <a href="file2.html">The FILE2 Page</a>
   </li>
   <li>
-    <a href="dummy.html">The Dummy Page</a>
+     <a href="rainbow.html">The Rainbow Page</a>
   </li>
 </ul>
 <link rel="stylesheet" href="style.css" />
